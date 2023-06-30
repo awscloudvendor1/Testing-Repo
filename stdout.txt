@@ -1,0 +1,39 @@
+Preparing to download PatchBaselineOperations PowerShell module from S3.
+
+Downloading PatchBaselineOperations PowerShell module from https://s3.us-west-2.amazonaws.com/aws-ssm-us-west-2/patchbaselineoperations/Amazon.PatchBaselineOperations-1.45.zip to C:\ProgramData\Amazon\SSM\InstanceData\i-01d23543c969c1b92\document\orchestration\207ad93a-7ff9-4222-8a32-20621dbdc8dd\PatchWindows\Amazon.PatchBaselineOperations-1.45.zip.
+
+Extracting PatchBaselineOperations zip file contents to temporary folder.
+
+Verifying SHA 256 of the PatchBaselineOperations PowerShell module files.
+
+Successfully downloaded and installed the PatchBaselineOperations PowerShell module.
+
+
+Patch Summary for 
+PatchGroup          : 
+BaselineId          : 
+Baseline            : null
+SnapshotId          : 
+ExecutionId         : 
+RebootOption        : RebootIfNeeded
+OwnerInformation    : 
+OperationType       : Scan
+OperationStartTime  : 1970-01-01T00:00:00.0000000Z
+OperationEndTime    : 1970-01-01T00:00:00.0000000Z
+InstalledCount      : -1
+InstalledRejectedCount : -1
+InstalledPendingRebootCount : -1
+InstalledOtherCount : -1
+FailedCount         : -1
+MissingCount        : -1
+CriticalNonCompliantCount : -1
+SecurityNonCompliantCount : -1
+OtherNonCompliantCount : -1
+NotApplicableCount  : -1
+UnreportedNotApplicableCount : -1
+NonCompliantSeverity : 
+
+EC2AMAZ-GES7S34 - PatchBaselineOperations Assessment Results - 2023-06-23T11:14:32.587
+
+
+
